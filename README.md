@@ -9,6 +9,4 @@ Launchpad 2015 Hackathon Project
   <li>Ryan Wolf - <a href="https://github.com/ryanwolf7">GitHub</a></li>
 </ul>
 
-<br></br>
-
 <h2>The Project</h2>
