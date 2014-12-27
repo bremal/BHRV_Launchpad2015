@@ -37,8 +37,8 @@ Output should look something like:
 
 - SSH
 
-| origin	git@github.com:<YOUR USERNAME>/BHRV_Launchpad2015.git (fetch)
-| origin	git@github.com:<YOUR USERNAME>/BHRV_Launchpad2015.git (push)
+| origin	  git@github.com:<YOUR USERNAME>/BHRV_Launchpad2015.git (fetch)
+| origin	  git@github.com:<YOUR USERNAME>/BHRV_Launchpad2015.git (push)
 | upstream  git@github.com:hkuchampudi/BHRV_Launchpad2015.git (fetch)
 | upstream  git@github.com:hkuchampudi/BHRV_Launchpad2015.git (push)
 
